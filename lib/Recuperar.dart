@@ -38,6 +38,46 @@ class Recuperar extends StatelessWidget {
                 fontSize: 25,
               ),
             ),
+            SizedBox(
+              height: 20,
+            ),
+            Padding(
+              padding: const EdgeInsets.all(12.0),
+              child: Text("Um código de verificação vai ser encaminhado para o email digitado acima."),
+            ),
+            SizedBox(
+              height: 40,
+            ),
+            ButtonTheme(
+              height:40.0,
+              child: RaisedButton(
+                onPressed: () => {},
+                child: Text(
+                  "Confirmar",
+                  style: TextStyle(color: Colors.white),
+                ),
+                color: Colors.lightGreen,
+              ),
+            ),
+            SizedBox(
+              height: 30,
+            ),
+            ButtonTheme(
+              height:40.0,
+              child: RaisedButton(
+                onPressed: (){
+                  Navigator.push(context, 
+                  MaterialPageRoute(
+                    builder: (context) => LoginPage(),
+                  )
+                  );},
+                child: Text(
+                  "Voltar",
+                  style: TextStyle(color: Colors.white),
+                ),
+                color: Colors.lightGreen,
+              ),
+            ),  
           ],
         ),
         ),
