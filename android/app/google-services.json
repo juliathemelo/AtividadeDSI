@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "533264379988",
+    "firebase_url": "https://dsi-app-6ed12.firebaseio.com",
+    "project_id": "dsi-app-6ed12",
+    "storage_bucket": "dsi-app-6ed12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533264379988:android:bc117d447b3e66e9c4bdc1",
+        "android_client_info": {
+          "package_name": "br.ufrpe.bsi.dsi.dsi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533264379988-dblagb3hdnekapng83jnvqvo73cgk0jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzzoAZpJyixcGZhNqZMCcfTqJXJcB1iRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533264379988-dblagb3hdnekapng83jnvqvo73cgk0jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
