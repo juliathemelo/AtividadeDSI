@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613297571074",
+    "project_id": "professores-fb93a",
+    "storage_bucket": "professores-fb93a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613297571074:android:487df3d79558208abcee1b",
+        "android_client_info": {
+          "package_name": "br.ufrpe.bsi.dsi.dsi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613297571074-76o4h4ip9e04mh3mrqao6b25fq8hkmvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQFF5ULsgHahzZHnTpQ9qa4QN4g4sQxKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613297571074-76o4h4ip9e04mh3mrqao6b25fq8hkmvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
